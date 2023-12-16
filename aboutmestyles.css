@@ -1,0 +1,40 @@
+
+body {
+    background-color: #9C92B0;
+}
+
+a {
+    color: #553D6B;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EDE3FF;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.myDiv1 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.paris {
+    float: right;
+    padding: 70px;
+}
